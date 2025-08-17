@@ -1,0 +1,10 @@
+/* Add any specific styles for App.jsx here if needed */
+/* For example, custom fonts, specific element styling not covered by Tailwind */
+
+/* Example: */
+/*
+.hero-section {
+  background-size: cover;
+  background-position: center;
+}
+*/
